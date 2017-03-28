@@ -13,6 +13,9 @@ height: 100%;
 width: 100%;
 }
 
+.logo_img {
+	margin: 5px;
+}
 
 #wrapper{
 max-width: 100%;
